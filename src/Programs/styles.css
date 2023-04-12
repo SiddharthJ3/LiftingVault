@@ -1,0 +1,40 @@
+.display {
+    color: white;
+    display: flex;
+    flex-direction: column;
+    gap: 100px;
+    margin-top: 100px;
+}
+
+.program1 {
+    margin-left: 40%;
+    font-family: 'Teko', sans-serif;
+    font-family: 'Tourney', cursive;
+    line-height: 60px;
+}
+
+.program--header {
+    font-size: 3em;
+}
+
+.program--rank {
+    font-size: 2em;
+}
+
+.program2 {
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+    font-size: 20px;
+}
+
+.tablesPPL {
+    font-family: 'Raleway', sans-serif;
+    font-size: 20px;
+    display: flex;
+    gap: 400px;
+    margin-left: 140px;
+    margin-bottom: 100px;
+}
+
+
+

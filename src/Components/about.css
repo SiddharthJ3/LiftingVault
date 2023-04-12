@@ -1,0 +1,25 @@
+.about-card {
+    display: flex;
+    color: white;
+    flex-direction: column;
+    margin-left: 43%;
+    margin-top: 100px;
+    margin-right: 800px;
+    gap: 30px;
+}
+
+.about--img {
+    width: 250px;
+    border: 1px solid white;
+    border-radius: 200px;
+}
+
+.about--h1 {
+    font-family: 'Teko', sans-serif;
+    font-family: 'Tourney', cursive;
+}
+
+.about--p {
+    font-family: 'Raleway', sans-serif;
+    line-height: 30px;
+}

@@ -1,0 +1,32 @@
+.navbar {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: black;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+}
+
+.site-logo {
+    padding-top: 30px;
+    padding-left: 50px;
+    width: 400px;
+    font-size: 30px;
+    font-family: 'Teko', sans-serif;
+    font-family: 'Tourney', cursive;
+}
+
+.navbar--elements {
+    display: flex;
+    justify-content: space-evenly;
+    font-size: 25px;
+    list-style: none;
+    padding: 0px 10px;
+    width: 600px;
+    padding-top: 30px;
+    font-family: 'Teko', sans-serif;
+    font-family: 'Tourney', cursive;
+}
+
